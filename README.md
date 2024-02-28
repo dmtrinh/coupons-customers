@@ -68,4 +68,5 @@ Adding another filter to grab only groups with least 15 samples:
 ![cheap_restaurant_high_acceptance_driver_characteristics.png](images/cheap_restaurant_high_acceptance_driver_characteristics.png)
 
 Notice the common characteristics for these groups.  Let's plot the acceptance rate for drivers with these characteristics:
+
 ![cheap_restaurant_acceptance_rate_for_single_under25_and_4+_monthly_visits.png](images/cheap_restaurant_acceptance_rate_for_single_under25_and_4+_monthly_visits.png)
