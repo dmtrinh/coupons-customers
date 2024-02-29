@@ -70,3 +70,9 @@ Adding another filter to grab only groups with least 15 samples:
 Notice the common characteristics for these groups.  Let's plot the acceptance rate for drivers with these characteristics:
 
 ![cheap_restaurant_acceptance_rate_for_single_under25_and_4+_monthly_visits.png](images/cheap_restaurant_acceptance_rate_for_single_under25_and_4+_monthly_visits.png)
+
+Lastly, let's try to identify a few key characteristics that contribute to lower acceptance rates for drivers. 
+
+![cheap_restaurant_coupons_icicle.png](images/cheap_restaurant_coupons_icicle.png)
+
+Drivers who need to urgently get to work or home tend to not accept these coupons.  What's interesting to see is the significant drop in acceptance rate for drivers in the income bracket $87,500 - $99,999.  Unfortunately, this anomaly might be due to the limited sample size and not the beginning of a trend; note the next higher income bracket, $100K+, returned to high acceptance rates.
